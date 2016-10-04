@@ -1,0 +1,254 @@
+/**
+	Wizard - Portfolio HTML Template
+ 	Copyright (c) 2015, Pophonic 
+
+	Author: Pophonic
+	Profile: themeforest.net/user/pophonic
+	
+**/
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+1.0 Page loader
+2.0 Blockquote
+3.0 Progress bar
+4.0 Main menu light version hover
+5.0 Services panel 1
+6.0 Services panel 2
+7.0 Content block 2 read more hover
+8.0 Portfolio items
+9.0 Submit form active hover
+10.0 More items link hover
+11.0 Single page and post
+12.0 Sidebar
+--------------------------------------------------------------*/
+
+
+/********************************************
+1.0 Page loader
+*********************************************/
+.loader {
+	border-left: 0.5em solid #00e676;
+}
+
+/********************************************
+2.0 Blockquote
+*********************************************/
+blockquote {
+	border-left: #00e676 solid 5px;
+}
+
+/********************************************
+3.0 Progress bar
+*********************************************/
+.progress-bar {
+	background-color: #00e676;
+}
+
+/********************************************
+4.0 Main menu light version hover
+*********************************************/
+#main-menu.light .nav-menu li:hover a {
+	color: #00e676;
+}
+
+#main-menu.light .nav-menu li:hover span:before,
+#main-menu.light .nav-menu li:hover span:after {
+	background-color: #00e676;
+}
+
+#main-menu.light .dropdown-menu > ul > li:hover > a {
+	color: #00e676 !important;
+}
+
+#main-menu.light .dropdown-menu > ul > li:hover > span:before,
+#main-menu.light .dropdown-menu > ul > li:hover > span:after {
+	background-color: #00e676 !important;
+}
+
+#main-menu.light .nav-menu li.active a {
+	color: #00e676;
+}
+
+#main-menu.light .nav-menu li.active > span:before,
+#main-menu.light .nav-menu li.active > span:after {
+	background-color: #00e676 !important;
+}
+
+/********************************************
+5.0 Services panel 1
+*********************************************/
+/* Service icon background color hover */
+.services-panel1 .service-box:hover {
+	background-color: #69f0ae;
+}
+
+/********************************************
+6.0 Services panel 2
+*********************************************/
+/* Service icon background color hover */
+.services-panel2 .service-box .icon-hover {
+	background-color: #00e676;
+}
+
+/* Service title hover */
+.services-panel2 .service-detail h3 a:hover {
+	color: #00e676;
+}
+
+/* Service title hover dark version */
+.services-panel2.dark .service-detail h3 a:hover {
+	color: #fff;
+}
+
+/********************************************
+7.0 Content block 2 read more hover
+*********************************************/
+.content-block2 .content-block-detail .read-more:hover {
+	color: #00e676;
+}
+
+.content-block2 .content-block-detail .read-more:hover:after {
+	color: #00e676;
+}
+
+.content-block2 .carousel-item.dark .content-block-detail .read-more:hover {
+	color: #00e676;
+}
+
+.content-block2 .carousel-item.dark .content-block-detail .read-more:hover:after {
+	color: #00e676;
+}
+
+/********************************************
+8.0 Portfolio items
+*********************************************/
+/* Portfolio filter hover */
+.portfolio-filter li.filter:hover,
+.portfolio-filter li.filter.selected {
+	color: #00e676;
+}
+
+/* Portfolio link icon hover */
+.portfolio-item .mega-hoverlink:hover i,
+.portfolio-item .mega-hoverview:hover i {
+	color: #00e676;
+}
+
+/* Dark version portfolio filter hover */
+.dark .portfolio-filter li.filter:hover,
+.dark .portfolio-filter li.filter.selected {
+	color: #fff;
+}
+
+/* Portfolio thumbnail hover */
+.portfolio-item .mega-hover {
+	background-color: rgba(0,230,118,0.85);
+}
+
+/* Related work thumbnail hover */
+.related-work-thumb .mega-hover {
+	background-color: rgba(0,230,118,0.85);
+}
+
+/********************************************
+9.0 Submit form active hover
+*********************************************/
+.submit-form input:focus ~ label,
+.submit-form textarea:focus ~ label,
+.submit-form input:valid ~ label,
+.submit-form textarea:valid ~ label {
+	color: #00e676;
+}
+
+.submit-form input ~ span,
+.submit-form textarea ~ span {
+	background: #00e676;
+}
+
+/********************************************
+10.0 More items link hover
+*********************************************/
+.more-item-link a:hover {
+	color: #00e676;
+}
+
+/********************************************
+11.0 Single page and post
+*********************************************/
+/* Single post meta hover */
+.single-post-meta ul li a:hover {
+	color: #00e676;
+}
+
+/* Related work link icon hover */
+.related-work-thumb .mega-hoverlink:hover i,
+.related-work-thumb .mega-hoverview:hover i {
+	color: #00e676;
+}
+
+/* Post date background color */
+.date-wrap {
+	background-color: #00e676;
+	border-bottom: #00c853 solid 3px;
+}
+
+/* Blog list meta hover */
+.blog-entry .blog-meta ul li a:hover {
+	color: #00e676;
+}
+
+/* Single post social share color hover */
+.post-share-bottom ul li a:hover {
+	background-color: #00e676;
+}
+
+/* Single post pagination icon */
+.post-pagination span:before {
+	color: #00c853;
+}
+
+/* Single post pagination hover */
+.post-pagination h4 a:hover {
+	color: #00e676;
+}
+
+/* Related post title hover */
+.related-post-title a:hover {
+	color: #00e676;
+}
+
+/* Comment reply color */
+.comment-reply {
+	color: #00e676;
+}
+
+/********************************************
+12.0 Sidebar
+*********************************************/
+/* Recent post title hover */
+.recent-post-detail h4 a:hover {
+	color: #00e676;
+}
+
+/* Category list icon */
+.widget_categories ul li:before {
+	color: #00c853;
+}
+
+/* Category list hover */
+.widget_categories ul li a:hover {
+	color: #00e676;
+}
+
+/* Tag cloud bg color */
+.widget_tag_cloud .tagcloud a {
+	background-color: #00e676;
+}
+
+/* Tag cloud bg color hover */
+.widget_tag_cloud .tagcloud a:hover {
+	background-color: #00c853;
+}
