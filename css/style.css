@@ -1098,6 +1098,7 @@ blockquote.blockquote2 > span ~ span:before {
 *********************************************/
 .slide-extralarge-title {
 	font-size: 5vw;
+  font-family: 'Cabin', sans-serif;
 	font-weight: 700;
 	color: #fff;
 	text-align: center;
