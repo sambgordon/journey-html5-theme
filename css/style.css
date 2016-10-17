@@ -762,7 +762,7 @@ blockquote.blockquote2 > span ~ span:before {
 	margin: 0;
 	font-size: 2.1428em;
 	font-weight: 800;
-	text-transform: uppercase;
+
 	color: #474747;
 	line-height: 1.2em;
 	padding: 0 10px;
@@ -1097,12 +1097,12 @@ blockquote.blockquote2 > span ~ span:before {
 6.1 Slider caption
 *********************************************/
 .slide-extralarge-title {
-	font-size: 5vw;
+	font-size: 4vw;
   font-family: 'Cabin', sans-serif;
-	font-weight: 700;
+	font-weight: 200;
 	color: #fff;
 	text-align: center;
-	text-transform: uppercase;
+
 	line-height: 5.4vw;
 	margin: 0;
 	margin-bottom: 2.4vw;
@@ -1312,7 +1312,7 @@ blockquote.blockquote2 > span ~ span:before {
 *********************************************/
 .blog-meta {
 	padding: 15px 25px;
-	background-color: #474747;
+	background-color: #000;
 }
 
 .blog-meta ul {
