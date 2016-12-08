@@ -741,7 +741,7 @@ blockquote.blockquote2 > span ~ span:before {
 
 .social-media ul li a:hover {
 	color: #474747;
-	background-color: red;
+	background-color: black;
 }
 
 
