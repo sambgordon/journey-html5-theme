@@ -22,7 +22,7 @@ body {
 font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	line-height: 1.571428;
-	color: #878787;
+	color: black;
 	background-color: #ffffff;
 
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -30,8 +30,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3{
-font-family: customFont;
-
+font-family: 'Roboto', sans-serif;
+font-weight: 600;
 }
 
 
@@ -1098,8 +1098,8 @@ blockquote.blockquote2 > span ~ span:before {
 *********************************************/
 .slide-extralarge-title {
 	font-size: 4vw;
-  font-family: 'Cabin', sans-serif;
-	font-weight: 200;
+  font-family: 'Roboto', sans-serif;
+
 	color: #fff;
 	text-align: center;
 
@@ -1143,6 +1143,7 @@ blockquote.blockquote2 > span ~ span:before {
 .slide-description-small {
 	font-size: 1.4vw;
 	font-weight: 400;
+font-family: 'Roboto', sans-serif;
 	color: #fff;
 	text-align: center;
 	line-height: 1.95vw;
@@ -1534,7 +1535,7 @@ blockquote.blockquote2 > span ~ span:before {
 
 .contact-info-icon i {
 	font-size: 22px;
-	color: #fff;
+	color: #black;
 }
 
 .contact-info-text {
@@ -1555,7 +1556,7 @@ blockquote.blockquote2 > span ~ span:before {
 
 .dark .contact-info-text,
 .dark .contact-description {
-	color: #fff;
+	color: #black;
 }
 
 
@@ -1567,7 +1568,7 @@ blockquote.blockquote2 > span ~ span:before {
 .submit-form input ~ label,
 .submit-form textarea ~ label {
 	font-size: 1em;
-	color: #878787;
+	color: black;
 	padding: 15px 10px;
 	position: absolute;
 	top: 0;
@@ -1593,6 +1594,7 @@ blockquote.blockquote2 > span ~ span:before {
 .text-input {
 	width: 100%;
 	position: relative;
+  color: black;
 }
 
 .submit-form input,
@@ -1702,8 +1704,8 @@ blockquote.blockquote2 > span ~ span:before {
 
 .dark .submit-form input,
 .dark .submit-form textarea {
-	color: #fff;
-	border-bottom: #fff solid 1px;
+	color: black;
+	border-bottom: black solid 1px;
 }
 
 .dark .submit-form input ~ span,
@@ -1758,7 +1760,7 @@ blockquote.blockquote2 > span ~ span:before {
 
 .footer-panel .social-media ul li a,
 .page-footer .social-media ul li a {
-	color: #878787;
+	color: black;
 }
 
 .footer-panel .social-media ul li a:hover,
