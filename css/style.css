@@ -34,7 +34,7 @@ SECTIONS!:
 /* font-face rule used to assign customFont throughout stylesheet */
 @font-face {
     font-family: customFont;
-    src: url(../fonts/Raleway-Thin.ttf);
+    src: url("../fonts/Coves_Light.otf");
 }
 
 /********************************************
@@ -99,14 +99,13 @@ SECTIONS!:
 3. Global Elements
 
 *********************************************/
-h1, h2, h3{
-font-family: 'Roboto', sans-serif;
-font-weight: 600;
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+h1, h2, h3, h4, h5, title, body, p, .button{
+font-family: 'Karla', sans-serif !important;
+
 }
 
-body, p, .button{
-font-family: 'Open Sans', sans-serif !important;
-}
 
 p {
 	margin: 0 0 1.5em;
@@ -671,7 +670,7 @@ h6 {
 
 .slide-extralarge-title {
 	font-size: 4vw;
-  font-family: 'Roboto', sans-serif;
+font-family: 'Karla', sans-serif;
 	color: #fff;
 	text-align: center;
 	line-height: 5.4vw;
@@ -714,12 +713,12 @@ h6 {
 .slide-description-small {
 	font-size: 1.4vw;
 	font-weight: 400;
-font-family: 'Roboto', sans-serif;
 	color: #fff;
 	text-align: center;
 	line-height: 1.95vw;
 	margin: 0;
 	margin-bottom: 2.05vw;
+  font-family: customFont !important;
 }
 
 .slide-layer-object {
