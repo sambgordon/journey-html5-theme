@@ -1,3 +1,3 @@
-#THE JOURNEY
+# THE JOURNEY
 
-View theme: https://cdn.rawgit.com/sambgordon/Bubble-Nav-Template/master/index.html
+View theme: https://rawgit.com/sambgordon/Journey-Static/master/index.html
