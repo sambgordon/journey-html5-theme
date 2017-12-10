@@ -1,3 +1,13 @@
+/**
+* Theme Name: Journey HTML5 Static Theme
+* Plugin URI: https://github.com/sambgordon/Journey-Static
+* Description: This is a static theme for developers and agencies.
+* Version: 1.0.0
+* Author: Sam Gordon
+* Author URI: http://devbysam.com 
+* License: MIT
+*/
+
 jQuery(document).ready(function() {
 
 	"use strict";
