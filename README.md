@@ -1,5 +1,5 @@
 
-[![Build Status](https://img.shields.io/travis/WordPress/gutenberg/master.svg)](https://travis-ci.org/WordPress/gutenberg)
+[![Build Status](https://img.shields.io/travis/WordPress/gutenberg/master.svg)](https://github.com/sambgordon/Journey-Static)
 [![Coverage](https://img.shields.io/codecov/c/github/WordPress/gutenberg/master.svg)](https://codecov.io/gh/WordPress/gutenberg)
 
 # THE JOURNEY
