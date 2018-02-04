@@ -4,7 +4,7 @@
 * Description: This is a static theme for developers and agencies.
 * Version: 1.0.0
 * Author: Sam Gordon
-* Author URI: http://www.devbysam.com 
+* Author URI: http://www.devbysam.com
 * License: MIT
 */
 
@@ -126,7 +126,6 @@ jQuery(document).ready(function() {
 		autoScrolling: customScroll,
 		scrollOverflow: customScroll,
 		resize: false,
-		anchors: ['panelBlock1', 'panelBlock2', 'panelBlock3', 'panelBlock4', 'panelBlock5', 'panelBlock6', 'panelBlock7', 'panelBlock8'],
 		menu: '.nav-menu',
 		navigation: true,
 		navigationPosition: 'right',
@@ -143,13 +142,13 @@ jQuery(document).ready(function() {
 				$('.panel-3 .animate-fadeIn').animate({ opacity: 1 }, 1500, 'easeOutExpo');
 				$('.panel-3 .animate-fadeInUp, .panel-3 .animate-fadeInDown').animate({ top: '0', opacity: 1 }, 1500, 'easeOutExpo');
 				$('.panel-3 .animate-fadeInLeft, .panel-3 .animate-fadeInRight').animate({ left: '0', opacity: 1 }, 1500, 'easeOutExpo');
-		
+
 			}
 			if(index == 4){
 				$('.panel-4 .animate-fadeIn').animate({ opacity: 1 }, 1500, 'easeOutExpo');
 				$('.panel-4 .animate-fadeInUp, .panel-4 .animate-fadeInDown').animate({ top: '0', opacity: 1 }, 1500, 'easeOutExpo');
 				$('.panel-4 .animate-fadeInLeft, .panel-4 .animate-fadeInRight').animate({ left: '0', opacity: 1 }, 1500, 'easeOutExpo');
-	
+
 			}
 			if(index == 5){
 				$('.panel-3 .animate-fadeIn').animate({ opacity: 1 }, 1500, 'easeOutExpo');
