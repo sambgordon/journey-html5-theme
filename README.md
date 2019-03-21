@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 # THE JOURNEY
-A **jQuery**-powered HTML5 theme for agencies.
+A **jQuery**-powered, Static HTML5 theme for agencies.
 
 Libraries used:
 
@@ -13,4 +13,4 @@ Libraries used:
 * [jQuery](https://jquery.com/)
 * [Gulp.js](https://gulpjs.com/)
 
-[View theme](https://rawgit.com/sambgordon/journey-theme/master/index.html)
+[View theme](https://rawgit.com/sambgordon/Journey-Static/master/index.html)
