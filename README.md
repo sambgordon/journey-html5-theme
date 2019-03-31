@@ -13,4 +13,4 @@ Libraries used:
 * [jQuery](https://jquery.com/)
 * [Gulp.js](https://gulpjs.com/)
 
-[View theme](https://rawgit.com/sambgordon/Journey-Static/master/index.html)
+[View theme](https://rawgit.com/sambgordon/journey-theme/master/index.html)
